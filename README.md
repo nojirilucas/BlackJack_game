@@ -12,7 +12,7 @@ O jogo usa Python para simular regras e interações no console.
 
 | Captura de Tela 1 (Tamanho Reduzido) | Captura de Tela 2 (Tamanho Reduzido) |
 |--------------------------------------|--------------------------------------|
-| <img src="https://github.com/nojirilucas/BlackJack_game/assets/103136574/849148a1-3c9b-47d6-b51a-515c1a7f7a14.png" alt="Captura de Tela 1" width="200"/> | <img src="https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957.png" alt="Captura de Tela 2" width="200"/> |
+| <img src="https://github.com/nojirilucas/BlackJack_game/assets/103136574/849148a1-3c9b-47d6-b51a-515c1a7f7a14.png" alt="Captura de Tela 1" width="800"/> | <img src="https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957.png" alt="Captura de Tela 2" width="200"/> |
 
 | Imagem de Baralho (Tamanho Reduzido) |
 |---------------------------------------|
