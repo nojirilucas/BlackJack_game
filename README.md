@@ -13,13 +13,14 @@ O jogo usa Python para simular regras e interações no console.
 
 ## Instruções de Uso
 
+| Tela inicial |
+|-------------------|
+| ![Captura de Tela 2](https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957.png) |
+
 | Captura de Tela 1 |
 |-------------------|
 | ![Captura de Tela 1](https://github.com/nojirilucas/BlackJack_game/assets/103136574/849148a1-3c9b-47d6-b51a-515c1a7f7a14.png) |
 
-| Captura de Tela 2 |
-|-------------------|
-| ![Captura de Tela 2](https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957.png) |
 
 | Imagem de Baralho |
 |-------------------|
