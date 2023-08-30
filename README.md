@@ -12,3 +12,4 @@ O jogo usa Python para simular regras e interações no console.
 ![1](https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957)
 
 <i class="fa-duotone fa-card-spade fa-beat-fade fa-xs" style="--fa-primary-color: #000000; --fa-secondary-color: #ffffff;"></i>
+teste
