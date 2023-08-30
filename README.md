@@ -14,6 +14,4 @@ O jogo usa Python para simular regras e interações no console.
 2. Executar o arquivo `main.py`.
 3. Siga as instruções no console para jogar.
 
-## Ícone de Espadas
-
-<i class="fa-solid fa-spade fa-xs" style="color: #ffffff;"></i>
+![imagens-de-baralho-png-8](https://github.com/nojirilucas/BlackJack_game/assets/103136574/4797defc-71c4-43c1-b39b-9ac074b14a0a)
