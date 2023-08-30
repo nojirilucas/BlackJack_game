@@ -10,9 +10,6 @@ O jogo usa Python para simular regras e interações no console.
 
 ## Instruções de Uso
 
-
-## Instruções de Uso
-
 | Tela inicial |
 |-------------------|
 | ![Captura de Tela 2](https://github.com/nojirilucas/BlackJack_game/assets/103136574/5f020dd1-803d-49c8-bf95-c0c654097957.png) |
